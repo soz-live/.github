@@ -5,5 +5,4 @@
 
 **SOZ-LIVE** is a CAD extension, written in Lisp.  
 
-For information on the project, visit the soz-live [website](https://www.soz-live.com).
-
+For information on the project, visit the [website](https://www.soz-live.com).
