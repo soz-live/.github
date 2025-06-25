@@ -1,8 +1,10 @@
+<img src="/assets/soz-live-logo.png" width="1000">
+
 # SOZ-LIVE
+
+A CAD extension, written in Lisp. 
 
 **SOZ** = Scripted ObjectZ.   
 **LIVE** = Lisp Interactive Visual Environment.  
-
-**SOZ-LIVE** is a CAD extension, written in Lisp.  
-
-For information on the project, visit the [website](https://www.soz-live.com).
+ 
+For project information, visit the [website](https://www.soz-live.com).
