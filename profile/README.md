@@ -1,5 +1,8 @@
+<a href="https://www.soz-live.com">
 <img src="/assets/soz-live-logo.png" width="1000">
+</a>
 
+          
 # SOZ-LIVE
 
 A CAD extension, written in Lisp. 
