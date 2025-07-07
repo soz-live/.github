@@ -1,5 +1,5 @@
-<a href="https://www.soz-live.com"  target="_blank">
-<img src="/assets/soz-live-logo.png" width="1000">
+<a href="https://www.soz-live.com" target="_blank">
+<img src="/assets/soz-live-logo.png" width="100%">
 </a>
 
           
