@@ -3,8 +3,6 @@
 </a>
 
 
-# SOZ-LIVE
-
 **SOZ-LIVE** is a CAD extension, written in Lisp. 
 
 **SOZ** = Scripted ObjectZ.   
