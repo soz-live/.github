@@ -7,7 +7,7 @@
 
 A CAD extension, written in Lisp.  
 
-**SOZ-LIVE** is a collection of over 2600 Lisp routines, in around 30,000 lines of code, that combine to create a unform approach to using and coding within CAD packages such as BricsCAD and AutoCAD.
+**SOZ-LIVE** is a collection of over 2600 Lisp routines, and around 30,000 lines of code, that combine to create a uniform approach to using and coding within CAD packages such as BricsCAD and AutoCAD.
 
 
 ## SOZ - Scripted ObjectZ
@@ -33,7 +33,7 @@ Benefits of using the **SOZ** approach in programming include:
 
 - Reduced code duplication.
 - Ease of extending classes.
-- Adding to the functionality of CAD. 
+- Adding to the functionality. 
 - Automated documentation of code.
 
 
@@ -41,17 +41,22 @@ Benefits of using the **SOZ** approach in programming include:
 
 **LIVE** is a Node-based User Interface (UI) written in **SOZ** that enables the user to create visual models for iterative design.
 
-The routines are built into the Core of **SOZ**, and consist of around 1000 lines of code.
+The routines are built into the core of **SOZ**, and consist of around 1000 lines of code.
 
-**LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace.  This enables complex models and arrangements to be created, enabling iterative design of the models.
+**LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace. This enables complex models and arrangements to be created, enabling iterative design of the models.
 
 
 ## Community
+
+**SOZ-LIVE** aims to be a community for Users and Coders interested in developing the project to meet their needs and those of other uses of CAD who can benefit from the power and functionality provided. 
+The community currently uses the following sites for discussions, issues, code base and development:
 
 - GitHub: soz-live
 - Discord: soz-live
 - YouTube: soz-live
 
-## Documentation
+For futher information about the community aims and the code of conduct, refer to the website.
 
-Visit the [soz-live website](https://www.soz-live.com).
+## Website
+
+For documentation and additional information, visit the **SOZ-LIVE** [website](https://www.soz-live.com).
