@@ -55,7 +55,7 @@ The community currently uses the following sites for discussions, issues, code b
 - Discord: soz-live
 - YouTube: soz-live
 
-For futher information about the community aims and the code of conduct, refer to the website.
+For futher information about the community aims and the code of conduct, refer to the [website](https://www.soz-live.com).
 
 ## Website
 
