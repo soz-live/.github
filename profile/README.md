@@ -7,34 +7,17 @@
 
 A CAD extension, written in Lisp.  
 
-**SOZ-LIVE** is a collection of over 2600 Lisp routines, and around 30,000 lines of code, that combine to create a uniform approach to drafting, modelling and coding within CAD packages such as BricsCAD and AutoCAD.
+**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a uniform approach to drafting, modelling and coding within CAD packages such as BricsCAD and AutoCAD.
 
 
 ## SOZ - Scripted ObjectZ
 
-### For Users
-
-**SOZ** provides a consistent environment to develop complex CAD models, from a series of inputs of simpler objects using a Graphical User Interface (GUI).
-
-It builds upon basic types such numbers and strings, to geometric objects such as vectors and points, to create entities such as Lines and Circles that enable the modelling of complex 3D Parts made of Features.
+For Users, **SOZ** provides a consistent environment to develop complex CAD models, from a series of inputs of simpler objects using a Graphical User Interface (GUI).  
+It builds upon basic types such numbers and strings, to geometric objects such as vectors and points, to create entities such as Curves and Solids that enable the modelling of complex 3D Parts made of Features.
 
 
-### For Coders
-
-**SOZ** is Lisp programming with a twist, and a means to combine:
-
-- Functional Programming 
-- Object Oriented Programming
-- and a Scripting Language
-
-All programmed in Lisp.
-
-Benefits of coding using the **SOZ** approach in programming include:
-
-- Reduced code duplication.
-- Ease of extending classes.
-- Adding to the functionality. 
-- Automated documentation of code.
+For Coders, **SOZ** combines the best of Functional, Object-Oriented & Scripting languages, written entirely in Lisp.
+With a structured and expressive approach to programming, **SOZ** gives creative power to Coders to extend and develop the project.  
 
 
 ## LIVE - Lisp Interactive Visual Environment
@@ -43,20 +26,12 @@ Benefits of coding using the **SOZ** approach in programming include:
 
 The routines are built into the core of **SOZ**, and consist of around 1000 lines of code.
 
-**LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace. This enables complex models and arrangements to be created, enabling iterative design of the models.
-
 
 ## Community
 
-**SOZ-LIVE** aims to be a community for Users and Coders interested in developing the project to meet their needs and those of other uses of CAD who can benefit from the power and functionality provided. 
-The community currently uses the following sites for discussions, issues, code base and development:
+**SOZ-LIVE** aims to be a community for Users and Coders interested in developing the project to meet their needs and those of other uses of CAD who can benefit from the power and functionality provided.
 
-- GitHub: soz-live
-- Discord: soz-live
-- YouTube: soz-live
-
-For futher information about the community aims and the code of conduct, refer to the [website](https://www.soz-live.com).
 
 ## Website
 
-For documentation and additional information, visit the **SOZ-LIVE** [website](https://www.soz-live.com).
+For futher information, visit the [website](https://www.soz-live.com).
