@@ -58,4 +58,4 @@ For Security Information, refer to the [security page](https://www.soz-live.com/
 
 ## Downloads
 
-Follow the link to the [soz-releases repo](https://github.com//soz-live//soz-releases).
+Follow the link to the [soz-releases](https://github.com//soz-live//soz-releases) repo.
