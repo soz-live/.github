@@ -35,3 +35,27 @@ The routines are built into the core of **SOZ**, and consist of around 1000 line
 ## Website
 
 For futher information, visit the [website](https://www.soz-live.com).
+
+## Documentation
+
+For Project Documentation, refer to the [soz-live website](https://www.soz-live.com).
+
+## Code of Conduct
+
+Please read the [Code of Conduct](https://github.com//soz-live//soz-releases//blob//main//CODE_OF_CONDUCT.md) for the Project.
+
+## Contributions
+
+Please read the [Contributing Guide](https://github.com//soz-live//soz-releases//blob//main//CONTRIBUTING.md) for the Project.
+
+## License
+
+When released, this project will use the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md)
+
+## Security
+
+For Security Information, refer to the [security page](https://www.soz-live.com//security.html) on the website.
+
+## Downloads
+
+Follow the link to the [soz-releases repo](https://github.com//soz-live//soz-releases).
