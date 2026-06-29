@@ -56,6 +56,10 @@ Please read the [Code of Conduct](https://github.com//soz-live//soz-releases//bl
 
 Please read the [Contributing Guide](https://github.com//soz-live//soz-releases//blob//main//CONTRIBUTING.md) for the Project.
 
+## Discussions
+
+Discussions are [here](https://github.com/orgs/soz-live/discussions).
+
 ## License
 
 When released, this project will use the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md)
