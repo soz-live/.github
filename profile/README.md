@@ -62,7 +62,7 @@ Discussions are [here](https://github.com/orgs/soz-live/discussions).
 
 ## License
 
-When released, this project will use the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md)
+This project uses the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md)
 
 ## Security
 
@@ -70,4 +70,4 @@ For Security Information, refer to the [security](https://www.soz-live.com//secu
 
 ## Downloads
 
-Follow the link to the [soz-releases](https://github.com//soz-live//soz-releases) repo.
+Follow the link to the [Releases](https://github.com/soz-live/soz-releases/releases) page.
